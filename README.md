@@ -1,4 +1,4 @@
 # Awesome buildstation
 
-An opinionated list of awesome projects built by the buildstation community
+An opinionated list of awesome projects built or contributed by the buildstation community
 
